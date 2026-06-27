@@ -14,7 +14,7 @@ A young girl named MIA is looking at the piece of paper.
 
 The sound of the clock is now deafening and it just hits midnight.
 
-`Frontal mid-body close-up on MIA's mother`
+`Frontal mid-body close-up on MIA's mother from MIA's perspective`
 
 MIA's mother is standing behind her. She is holding a clothe-hanger in her shaking hands. Suddenly, Mia's mother raises the clothe-hanger and strikes down. The sound of the clock stops.
 
