@@ -267,7 +267,7 @@ MIA is in the bathroom putting BRIAN's toothbrush in a Ziploc bag. She faintly h
 
 Meanwhile, MIA opens BRIAN's drawer and dumps all his clothes inside the cardboard box.
 
-> MIA: I have a blocker on adding QBIL ref data, 3956. The team handling it is prioritizing supporting other business lines first. I think we will need to move this to next release unfortunately. The other ticket is going smoothly. We raise a PR this afternoon.
+> MIA: I have a blocker on adding QBIL ref data, 3956. The team handling it is prioritizing supporting other business lines first. I think we will need to move this to next release unfortunately. The other ticket is going smoothly. Will raise a PR this afternoon.
 
 > MANAGER: Okay, just let our business users know.
 
