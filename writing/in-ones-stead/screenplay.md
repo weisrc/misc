@@ -255,9 +255,63 @@ Suddenly, BRIAN receives a phone call. He was expecting it to be MIA, but it is 
 
 #### INT. MIA APARTMENT - MORNING
 
-MIA is dumping BRIAN's belongings into a cardboard box in hurry. She is crying and frustrated.
+MIA is dumping BRIAN's belongings into a cardboard box in hurry while attending a morning scrum meeting for work on Zoom.
+
+> MIA: Hey everyone, sorry for joining late. How was the turnover?
+
+> MANAGER: Hey MIA, just in time! Our new release kept running out of memory.
+
+> MIA: How so? On startup or after a few hours of running.
+
+> MANAGER: It is after a few hours of running. Then it kept crashing. There is this one request on our message queue from upstream systems that is too demanding for our system to handle. Right now, we moved to our error queue. Can you investigate and resolve it? This trade needs to be processed before EOD.
+
+> MIA: Yes, I can investigate. I am heading to office soon.
+
+> MANAGER: Great. Other than that, do you have any updates on your tickets. We need 3954 and 3956 in QA this Wednesday. Can you make it?
+
+> MIA: I have a blocker on adding QBIL ref data, 3956. The team handling it is prioritizing supporting other business lines first. I think we will need to move this to next release unfortunately. The other ticket is going smoothly. We raise a PR this afternoon.
+
+> MANAGER: Okay, just let our business users know.
+
+> MIA: Of course.
+
+> MANAGER: Now, its Ben's turn.
+
+> BEN: Didn't do much yesterday. I was helping the people from DKBU onboard our new API. Somehow, they are not authorized in our API even after registering their OIDC client with us.
+
+> MIA: Make sure they are using the right environment. They must register on our QA environment for their DEV instance. Our mapping is not standard...
+
+> BEN: Oh, I didn't know this. Can I have some of your time in office today.
+
+> MIA: Sure.
+
+> BEN: I plan to continue working on 3898 this afternoon.
+
+> MANAGER: BU are chasing us for this. We must have it done this release.
+
+> BEN: Will try.
+
+> MANAGER: Great. Joe?
+
+Joe doesn't respond.
+
+> MANAGER: Joe, are you here. If you are, we don't hear you.
+
+> MANAGER: Maybe he will be back soon. Elene?
 
 After packing everything, she puts the box on the floor next to the entrance. She then takes a piece of paper and writes a note to BRIAN. While, she is writing the note, she receives the text messages from BRIAN and ignores them.
+
+The meeting continues on as MIA heads out of the apartment.
+
+> MANAGER: Nick
+
+> NICK: Hey! I have raised the PR for 3959 yesterday. Still waiting for one more reviewer.
+
+> MANAGER: I will review it today.
+
+> NICK: Thanks. Will work on 3962 this afternoon.
+
+> MANAGER: Thanks.
 
 #### INT. CONVENIENCE STORE - 3PM
 
