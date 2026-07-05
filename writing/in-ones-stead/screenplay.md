@@ -255,13 +255,29 @@ Suddenly, BRIAN receives a phone call. He was expecting it to be MIA, but it is 
 
 #### INT. MIA APARTMENT - MORNING
 
-MIA is dumping BRIAN's belongings into a cardboard box in hurry while attending a morning scrum meeting for work on Zoom.
+MIA is dumping BRIAN's belongings into a cardboard box in hurry while attending a morning scrum meeting for work on Zoom on her laptop.
 
-> MIA: Hey everyone, sorry for joining late. How was the turnover?
+> MANAGER: Now, its Ben's turn.
 
-> MANAGER: Hey MIA, just in time! Our new release kept running out of memory.
+> BEN: Didn't do much yesterday. I was helping the people from DKBU onboard our new API. Somehow, they are not authorized in our API even after registering their OIDC client with us.
 
-> MIA: How so? On startup or after a few hours of running.
+> BEN: I plan to continue working on 3898 this afternoon.
+
+> MANAGER: BU are chasing us for this. We must have it done this release.
+
+> BEN: Will try.
+
+> MANAGER: MIA, I see that you joined!
+
+> MANAGER: MIA?
+
+MIA is in the bathroom putting BRIAN's toothbrush in a Ziploc bag. She faintly hears her manager calling her and walks towards her laptop to unmute herself.
+
+> MIA: Hi! I was having trouble setting up my mic. How was the turnover?
+
+> MANAGER: It didn't go to well. The app keeps crashing on a certain trade.
+
+> MIA: How so? Is it at startup or after some time running?
 
 > MANAGER: It is after a few hours of running. Then it kept crashing. There is this one request on our message queue from upstream systems that is too demanding for our system to handle. Right now, we moved to our error queue. Can you investigate and resolve it? This trade needs to be processed before EOD.
 
@@ -275,21 +291,9 @@ MIA is dumping BRIAN's belongings into a cardboard box in hurry while attending 
 
 > MIA: Of course.
 
-> MANAGER: Now, its Ben's turn.
+> BEN: I may need some of your time MIA this afternoon since you worked on the OIDC part of our new service. We can talk tomorrow as well if you are too busy today.
 
-> BEN: Didn't do much yesterday. I was helping the people from DKBU onboard our new API. Somehow, they are not authorized in our API even after registering their OIDC client with us.
-
-> MIA: Make sure they are using the right environment. They must register on our QA environment for their DEV instance. Our mapping is not standard...
-
-> BEN: Oh, I didn't know this. Can I have some of your time in office today.
-
-> MIA: Sure.
-
-> BEN: I plan to continue working on 3898 this afternoon.
-
-> MANAGER: BU are chasing us for this. We must have it done this release.
-
-> BEN: Will try.
+> MIA: I can try today during the afternoon.
 
 > MANAGER: Great. Joe?
 
