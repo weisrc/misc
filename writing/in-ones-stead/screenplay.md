@@ -66,7 +66,7 @@ MIA wakes up and sees BRIAN eating the burnt eggs. She looks at him with a conce
 
 MIA seats in front of BRIAN.
 
-> BRIAN: The eggs are slightly burnt. They are crispy on the outside but soft on the inside. I like it this way.
+> BRIAN: They are crispy. I like it this way.
 
 MIA ignores him and gets off the chair. BRIAN notices that he is going to miss his bus and rushes to the door.
 
@@ -193,8 +193,6 @@ MIA doesn't reply and there is no read receipt. The sound of the clock ticking c
 
 > BRIAN (Message): Please reply to me.
 
-`insert ROADTRIP VLOG`
-
 > BRIAN (Message): Are you okay? I am worried about you.
 
 #### INT. MIA BIRTHDAY VLOG (INSERT)
@@ -216,24 +214,6 @@ Mia closes her eyes with a smile and blows out the candles.
 > MIA: Okay, tell me.
 
 > BRIAN (laughing): You wished for me to stop singing.
-
-#### EXT. ROADTRIP VLOG (INSERT)
-
-This video is filmed by MIA on the passenger seat of the car. BRIAN is driving the car and MIA is filming him. They are playing a game called "I spy" while driving on the road.
-
-> BRIAN: I spy something that is silver.
-
-> MIA: There is nothing silver here. Oh wait, are you talking about the truck in front of us?
-
-> BRIAN: Nope, it is smaller than that.
-
-> MIA: Is it the coins in the cup holder?
-
-> BRIAN: Nope, it is way larger than that. It has four wheels and it is moving.
-
-> MIA: It is a silver car. There is no silver car in sight!
-
-> BRIAN: Are you sure about that? Look at the car we are in.
 
 #### INT. CONVENIENCE STORE - 2PM
 
@@ -342,3 +322,38 @@ When BRIAN arrives at the apartment, he sees the cardboard box and a note on it.
 > Sorry,
 > Mia
 
+He reads the notes and performs the written steps. And writes the following message on the back of the paper:
+
+> Mia,
+>
+> Why so sudden? Please tell me what did I do wrong?
+>
+> Brian
+
+He walks down the apartment emergency stairs because the elevators are in maintenance. As he walks down the stairs, the box breaks making some of his clothes fall on the stairs.
+
+> BRIAN: C'mon.
+
+He picks all the fallen clothes up and continues going downstairs.
+
+#### EXT. MIA APARTMENT OUTSIDE
+
+He puts the box in the passenger seat.
+
+#### EXT. ROADTRIP VLOG (INSERT)
+
+This video is filmed by MIA on the passenger seat of the car. BRIAN is driving the car and MIA is filming him. They are playing a game called "I spy" while driving on the road.
+
+> BRIAN: I spy something that is silver.
+
+> MIA: There is nothing silver here. Oh wait, are you talking about the truck in front of us?
+
+> BRIAN: Nope, it is smaller than that.
+
+> MIA: Is it the coins in the cup holder?
+
+> BRIAN: Nope, it is way larger than that. It has four wheels and it is moving.
+
+> MIA: It is a silver car. There is no silver car in sight!
+
+> BRIAN: Are you sure about that? Look at the car we are in.
